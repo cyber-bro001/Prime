@@ -1,3 +1,3 @@
 # Prime
 
-"Your Confidence, Our Priority"
+## Your Confidence, Our Priority
