@@ -1,4 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Analytics } from "@vercel/analytics/react";
 import Home from './pages/Home';
 import ShopSection from './pages/ShopSection';
 import About from './pages/About';
@@ -19,6 +20,7 @@ export default function App() {
       </Routes>
         <ToTopButton />
         <Footer />
+        <Analytics />
     </Router>
   );
 }
