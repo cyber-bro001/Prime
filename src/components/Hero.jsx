@@ -2,7 +2,7 @@ import heroImage from '../assets/prime-scent.jpg'
 
 export default function Hero() {
   return (
-    <section className="relative w-full h-screen flex items-center justify-center text-center">
+    <section className="relative w-full h-[100vh] flex items-center justify-center text-center">
       {/* Hero image */}
       <img 
         src={heroImage} 
