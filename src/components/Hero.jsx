@@ -15,10 +15,10 @@ export default function Hero() {
 
       {/* Text content */}
       <div className="relative z-20 px-6">
-        <h2 className="text-4xl md:text-5xl font-serif mb-4 text-secondary">
+        <h2 className="text-4xl md:text-5xl lg:text-8xl font-serif mb-4 text-secondary">
           Unveil Your Signature Scent
         </h2>
-        <p className="max-w-xl mx-auto mb-8 text-lg text-secondary/95 font-normal">
+        <p className="max-w-xl mx-auto mb-8 text-lg lg:text-2xl text-secondary/95 font-normal">
           Discover timeless fragrances that define elegance, crafted for every moment that matters.
         </p>
         <a 
