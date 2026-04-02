@@ -8,7 +8,7 @@ export default function Footer() {
         <FaFacebook className="w-6 h-6 hover:text-accent" />
         <FaTwitter className="w-6 h-6 hover:text-accent" />
       </div>
-      © 2025 Prime. All rights reserved.
+      © 2026 Prime. All rights reserved.
     </footer>
   )
 }

@@ -16,7 +16,7 @@ export default function BrandTimeline() {
       description: 'Expanded to over 20 countries, sharing our scents worldwide.',
     },
     {
-      year: '2024 - 2025',
+      year: '2024 - Present',
       title: 'Sustainability',
       description: 'Committed to eco-friendly packaging and responsibly sourced ingredients.',
     },

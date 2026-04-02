@@ -1,4 +1,5 @@
 import heroImage from '../assets/prime-scent.jpg'
+import {Link} from "react-router-dom";
 
 export default function Hero() {
   return (
@@ -21,12 +22,12 @@ export default function Hero() {
         <p className="max-w-xl mx-auto mb-8 text-lg lg:text-2xl text-secondary/95 font-normal">
           Discover timeless fragrances that define elegance, crafted for every moment that matters.
         </p>
-        <a 
-          href="#" 
+        <Link 
+          to="/shop" 
           className="px-8 py-3 bg-accent text-white font-semibold rounded-full hover:bg-primary transition"
         >
           Shop Now
-        </a>
+        </Link>
       </div>
     </section>
   )
